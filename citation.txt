@@ -1,0 +1,7 @@
+@inproceedings{REPO100,
+    author = "Wen, Xin and Zhao, Bingchen and Qi, Xiaojuan",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "16590--16600",
+    title = "{Parametric Classification for Generalized Category Discovery: A Baseline Study}",
+    year = "2023"
+}
